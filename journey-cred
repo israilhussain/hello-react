@@ -1,0 +1,63 @@
+784199765358504
+DECE-2020-000019
+DECE-2020-000020
+
+
+Police	UAE pass	784198560386538
+Embassy	UAE pass	784199718748470
+Public User	UAE pass	784199765358504
+Health-Professional	UAE pass	784199165859838
+white_check_mark
+eyes
+raised_hands
+
+5:43
+784198996370957. ---public user
+
+https://stage.tamm.abudhabi/journeys/journey-template/journeys/drivinglicence-kptdvl/dashboard/573
+https://stage.tamm.abudhabi/journeys/journey-template/questionnaire/questionnaire-smart
+
+
+On Yesterday: 
+
+1. After standup me and Bilal had session where Bilal walk me through artchitectral
+
+overview of backend / frontend layers and how api are exposed and call through diffrent layers
+
+2. Also he discussed about the next task that I nedd to work at.
+
+3. Later on I cloned the sas-adu-mobility git repo to my local machine for non workbench services development.
+
+Unfortunatel not able to run it locally as need a configuration files that Bilal is aware of
+And he is gonna help me out in this regard.
+
+In after noon I took a session with Osama where I walk him through questionnaire,
+
+and how we can create and configure a questionnaire.
+
+Also we had internal meeting with devs where we discussed about journey global context creation and how
+we can import relevant initial states variable from a service and make it availble to another service to consume those data.
+
+
+Today: I will be working on integrating our questionnaire and service that we work at so far in a journey.
+
+And then as soon as I get the .env config file I will proceed with the non workbench service.
+
+so yeh thats pretty much. Thanks.
+
+Impediments: .env file
+
+
+
+
+Hi, Chakib
+
+Below are the things that we need to proceed further with our journey development. Please help us in this regard.
+
+1. "Get a Driving License" journey is not availble in the CMS
+2. "Smart Questionnaire" journey is not availble in the CMS
+3. "Arabic content" for smart questionnaire 
+
+
+Thanks
+Md Israil
